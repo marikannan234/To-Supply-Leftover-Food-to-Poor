@@ -29,7 +29,7 @@ Technologies Used
 - Lightning Web Components (LWC)
 - Salesforce Data Model & Flows
 
-bjective To create a sustainable, cloud-based platform that ensures leftover food reaches those in need efficiently, reducing food waste and hunger.
+Objective To create a sustainable, cloud-based platform that ensures leftover food reaches those in need efficiently, reducing food waste and hunger.
 
 
 
