@@ -35,6 +35,6 @@ Objective To create a sustainable, cloud-based platform that ensures leftover fo
 
 Salesforce Instance: https://orgfarm-8022fdf76a-dev-ed.develop.lightning.force.com/lightning/page/home
 
-Demo Vedio Link:https://drive.google.com/file/d/1zIzdPvOgZCqn1GPjc8mowPk5vTXfG97o/view?usp=sharing
+Demo Video Link:https://drive.google.com/file/d/1zIzdPvOgZCqn1GPjc8mowPk5vTXfG97o/view?usp=sharing
 
 
